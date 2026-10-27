@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 238" width="388" height="238">
+  <title>CIO Iniciatives</title>
+  <g fill="#c8102e" stroke="#c8102e">
+    <path d="M121.01 121.01A58 58 0 1 1 121.01 38.99" fill="none" stroke-width="44"/>
+    <rect x="160" y="0" width="44" height="160" stroke="none"/>
+    <circle cx="308" cy="80" r="58" fill="none" stroke-width="44"/>
+  </g>
+  <text x="0" y="234" textLength="388" lengthAdjust="spacing" fill="#1f1416" font-family="'Bricolage Grotesque', 'Arial Rounded MT Bold', Arial, Helvetica, sans-serif" font-weight="700" font-size="70">iniciatives</text>
+</svg>
