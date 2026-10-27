@@ -70,8 +70,10 @@ Colores de la web: blanco y rojo (`#c8102e`). El logo es **CIO** en rojo con **i
 | `img/logo.svg` | Logo sin fondo (documentos, carteles…) |
 | `img/icono.svg` | Icono cuadrado con fondo blanco, en vectorial |
 | `img/icono-512.png` | Icono 512 × 512 (foto de perfil en redes, WhatsApp…) |
-| `img/icono-180.png` | Icono para el móvil (cuando guardan la web en la pantalla de inicio) |
-| `img/favicon.svg` | Iconito de la pestaña del navegador (solo "CIO") |
+| `img/icono-180.png` | Icono para iPhone/iPad (cuando guardan la web en la pantalla de inicio) |
+| `img/icono-192.png`, `img/icono-maskable-512.png` | Iconos para Android (pantalla de inicio, con el nombre "CIO Iniciatives") |
+| `img/favicon.svg`, `img/favicon.ico`, `img/favicon-32.png` | Iconito de la pestaña del navegador y de los favoritos (solo "CIO", porque en pequeño "iniciatives" no se leería) |
+| `site.webmanifest` | Nombre e iconos de la web cuando se guarda como app en el móvil |
 | `img/og.png` | Imagen que sale al compartir el enlace (1200 × 630) |
 
 Los PNG llevan la tipografía exacta (Bricolage Grotesque). En los SVG la palabra "iniciatives" es texto:
